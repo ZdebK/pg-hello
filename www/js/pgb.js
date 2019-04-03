@@ -20,3 +20,9 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function addName() {
+	info =  'My name is Katarzyna Zdeb'
+	
+	document.write(info);
+}
